@@ -2,7 +2,7 @@
 
 ## 📂｜Projects
 
-<img src="./Images/link-solid.svg" width="14px" style="display:inline;">｜**Website:**
+<img src="https://raw.githubusercontent.com/erikraft/ErikrafT/main/Images/link-solid.svg" width="14px" style="display:inline;">｜**Website:**
 <br>
 <img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
@@ -19,7 +19,7 @@
 ## 💰｜Support
 
 <a href="https://ko-fi.com/erikraft" target="_blank">
-<img src="./Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
+<img src="https://raw.githubusercontent.com/erikraft/ErikrafT/main/Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
 </a
 
 <br>
@@ -28,7 +28,7 @@ Did you like my projects? Consider making a small contribution to help keep them
 
 ---
 
-[![BackToTop](./Images/BACK_TO_TOP.svg)](#top)
+[![BackToTop](https://raw.githubusercontent.com/erikraft/ErikrafT/main/Images/BACK_TO_TOP.svg)](#top)
 
 ---
 
