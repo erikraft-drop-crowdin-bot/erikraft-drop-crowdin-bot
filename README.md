@@ -1,16 +1,36 @@
-## Hi there 👋
+---
 
-<!--
-**erikraft-drop-crowdin-bot/erikraft-drop-crowdin-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂｜Projects
 
-Here are some ideas to get you started:
+<img src="./Images/link-solid.svg" width="14px" style="display:inline;">｜**Website:**
+<br>
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://developer.android.com/static/images/robot-tiny.png" width="20px" style="display:inline;">｜**Android application:**
+<br>
+<img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop Android](https://github.com/erikraft/Drop-Android)
+
+🙏 Thank you for everyone’s support :)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=erikraft/Drop,erikraft/Drop-Android&type=Date)](https://www.star-history.com/#erikraft/Drop&erikraft/Drop-Android&Date)
+
+---
+
+## 💰｜Support
+
+<a href="https://ko-fi.com/erikraft" target="_blank">
+<img src="./Images/support_me_on_kofi_badge_blue.png" width="150" alt="Donate"/>
+</a
+
+<br>
+
+Did you like my projects? Consider making a small contribution to help keep them active.
+
+---
+
+[![BackToTop](./Images/BACK_TO_TOP.svg)](#top)
+
+---
+
+<br>
+<br>
