@@ -2,7 +2,7 @@
 
 ## 📂｜Projects
 
-<img src="https://raw.githubusercontent.com/erikraft/ErikrafT/main/Images/link-solid.svg" width="14px" style="display:inline;">｜**Website:**
+<img src="https://raw.githubusercontent.com/erikraft/ErikrafT/main/Images/link-solid.svg" width="14px" style="display:inline;">｜**Website, Extensions, Discord Activity, and Discord Bot:**
 <br>
 <img src="https://biodrop.erikraft.com/images/Logo.png" width="14px" style="display:inline;"> [ErikrafT Drop](https://github.com/erikraft/Drop)
 
